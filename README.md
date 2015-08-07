@@ -33,6 +33,9 @@ https://github.com/dupengtao/BubbleTextView
 **2)VerticalMarqueeTextView ** - A custom TextView with vertical marquee effect.
 https://github.com/ayltai/Android-Lib-VerticalMarqueeTextView
 
+**3)TextView-LinkBuilder** - Insanely easy way to define clickable links within a TextView.
+https://github.com/klinker24/Android-TextView-LinkBuilder
+
 ####Spinner
 
 **1) Nice Spinner** - NiceSpinner is a re-implementation of the default Android's spinner, with a nice arrow animation and a different way to display its content.
@@ -65,6 +68,12 @@ https://github.com/code-mc/material-icon-lib
 **4) material-sheet-fab** - Library that implements the floating action button to sheet transition from Google's Material Design documentation.
 https://github.com/gowong/material-sheet-fab
 
+**5)material-animated-switch** - A material Switch with icon animations and color transitions
+https://github.com/glomadrian/material-animated-switch
+
+**6)SublimePicker** - A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface.
+https://github.com/vikramkakkar/SublimePicker
+
 ####Table View 
 
 **1) SortableTableView** - Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs
@@ -89,11 +98,20 @@ https://github.com/Ereza/CustomActivityOnCrash
 **4)Android-StepsView** - Android-StepsView
 https://github.com/anton46/Android-StepsView
 
-**5) MusicPlayerView** - Android custom view and progress for music player
+**5)BlurredGridMenu** - Cool blurred grid menu for Android.
+https://github.com/gotokatsuya/BlurredGridMenu
+
+**6) MusicPlayerView** - Android custom view and progress for music player
 https://github.com/iammert/MusicPlayerView
 
-**6) AndroidGlitterView** - A view to show bling bling stars when you touch it.
+**7) AndroidGlitterView** - A view to show bling bling stars when you touch it.
 https://github.com/LyndonChin/AndroidGlitterView
+
+**8)RearrangeableLayout** - An android layout to re-arrange child views via dragging
+https://github.com/rajasharan/RearrangeableLayout
+
+**9)GuillotineMenu-Android** - Library that provides a simple way to implement guillotine-styled animation
+https://github.com/Yalantis/GuillotineMenu-Android
 
 ####View Pager Indicators
 
