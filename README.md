@@ -157,6 +157,15 @@ https://github.com/pnikosis/materialish-progress
 **15)MaterialDesignLibrary** - This is a library with components of Android L to you use in android 2.2.<br />
 https://github.com/navasmdc/MaterialDesignLibrary
 
+**16)ToggleExpandLayout** - A togglelayout that can be used in setting interface.
+https://github.com/fenjuly/ToggleExpandLayout
+
+**17)android-floating-action-button** - android-floating-action-button
+https://github.com/fenjuly/android-floating-action-button
+
+**18)AndroidSwipeLayout - AndroidSwipeLayout
+https://github.com/fenjuly/AndroidSwipeLayout
+
 ###Table View 
 
 **1) SortableTableView** - Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.<br />
@@ -196,6 +205,20 @@ https://github.com/lzyzsd/CircleProgress
 
 **11)NumberProgressBar** - NumberProgressBar.<br />
 https://github.com/daimajia/NumberProgressBar
+
+**12)SpinnerLoader** - SpinnerLoader
+https://github.com/fenjuly/SpinnerLoader
+
+**13)DownloadProgressBar** - DownloadProgressBar
+https://github.com/fenjuly/DownloadProgressBar
+
+**14)FloatingLoading** - FloatingLoading,A component which can be used for loading or wait etc.
+https://github.com/fenjuly/FloatingLoading
+
+###Button
+
+**1) ArrowDownloadButton** - ArrowDownloadButton,A download button with pretty cool animation
+https://github.com/fenjuly/ArrowDownloadButton
 
 ###Others
 
@@ -285,6 +308,9 @@ https://github.com/avast/android-styled-dialogs
 
 **3)sweet-alert-dialog** - SweetAlert for Android, a beautiful and clever alert dialog.<br />
 https://github.com/pedant/sweet-alert-dialog
+
+**4)FlycoDialog_Master** - FlycoDialog_Master
+https://github.com/H07000223/FlycoDialog_Master
 
 ####Lock View
 
